@@ -1,0 +1,13 @@
+.img-fluid{
+    height:auto;
+}
+
+.chart-grid {
+    margin-bottom: 50px; }
+
+.chart-grid__header {
+    background: none;
+    font-size: 20px;
+    color: var(--primary);
+    border-bottom: 1px solid #eee; }
+

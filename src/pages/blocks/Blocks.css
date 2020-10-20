@@ -1,0 +1,40 @@
+/***** Messages *************/
+.my-breadcrumb {
+    padding: 0;
+    margin-bottom: 10px;
+    list-style: none;
+    background-color: transparent;
+    border-radius: 0;
+    font-size: 14px; }
+  
+  .welcome-msg h1 {
+    font-size: 24px; }
+  
+  .welcome-msg p {
+    font-size: 14px; }
+
+.cards__heading {
+        padding: 30px 20px;
+        background: #fff;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #eee;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0; }
+      
+.cards__heading span {
+        color: var(--para-color);
+        font-weight: normal; }
+      
+.cards__heading h3 {
+        font-size: 22px;
+        line-height: 27px;
+        font-weight: 600;
+        color: var(--primary);
+        margin: 0; }
+
+ .block__title {
+            font-size: 30px;
+            line-height: 35px;
+            text-transform: capitalize;
+            font-weight: 600; }
